@@ -1,0 +1,9 @@
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#endif
+
+#import "Pods-cacheAndSyncIntegrationTests-environment.h"
+
+
+#import <SenTestingKit/SenTestingKit.h>
+

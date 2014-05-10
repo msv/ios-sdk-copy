@@ -1,0 +1,17 @@
+PODS:
+  - AFNetworking (1.1.0)
+  - Kiwi/ARC (2.2.2)
+  - Kiwi/NonARC (2.2.2)
+  - Kiwi/SenTestingKit (2.2.2):
+    - Kiwi/ARC
+    - Kiwi/NonARC
+
+DEPENDENCIES:
+  - AFNetworking (= 1.1.0)
+  - Kiwi/SenTestingKit (= 2.2.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: 761a418233d280c1e0580bcb76ff9cb4c3073d17
+  Kiwi: 03539aeb004ccd42bdbc31253617b26364315df4
+
+COCOAPODS: 0.25.0
